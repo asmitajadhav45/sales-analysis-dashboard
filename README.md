@@ -33,4 +33,4 @@ An interactive Excel dashboard created to analyze customer purchase history, sal
 ![Dashboard](Dashboard_Screenshot.png)
 
 ## Author
-Ashu
+Asmita Jadhav
